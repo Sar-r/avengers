@@ -1,3 +1,4 @@
 # misiones
 
-* investigar a doom 
+* investigar a doom
+* capturar a craneo rojo 
